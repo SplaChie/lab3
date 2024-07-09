@@ -1,0 +1,2 @@
+Hello, this is an example file.
+This file is used for testing the SmartTextReader class.
